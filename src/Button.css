@@ -1,5 +1,7 @@
 .btn{
     text-align: center;
-    background-color: blue;
+    background-color: rgb(65, 219, 147);
     color: #fff;
+    height: 2rem;
+    width: 2rem;
 }

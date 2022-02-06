@@ -1,5 +1,6 @@
 import './App.css';
-import {Boxes} from './Boxes';
+import { Boxes } from './Boxes';
+import { Display } from './Display';
 
 function App() {
   return (
@@ -7,10 +8,14 @@ function App() {
       <header className="App-header">
         Reedax Calculator
       </header>
-      <>
-        <Boxes />
-      </>
-      
+      <div className="calculator">
+        <>
+          <Display text='0'/>
+        </>
+        <>
+          <Boxes />
+        </>
+      </div>
     </div>
   );
 }
