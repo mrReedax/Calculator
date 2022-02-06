@@ -1,11 +1,6 @@
 # Calculator
 
-<<<<<<< HEAD
 This is my first react app, I decided to build a simple calculator to test my knowledge of react, css, html and JavaScript
-=======
-This is my first react app, I decide to build a simple calculator to test my knowledge of react, css, html and JavaScript
->>>>>>> ebb5bff6e30ead297884000bd105af1eeaee3fec
-
 ## Available Scripts
 
 In the project directory, you can run:
