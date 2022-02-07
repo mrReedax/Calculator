@@ -1,7 +1,17 @@
 .btn{
     text-align: center;
-    background-color: rgb(65, 219, 147);
+    background-color: rgb(50, 64, 71);
     color: #fff;
-    height: 2rem;
-    width: 2rem;
+    height: 8vw;
+    width: 8vw;
+    font-size: 3vw;
+    border-color: aliceblue;
+    margin: 0.2vw;
+    border: 0.5vw;
+    border-radius: 0.8vw;
+    transition: all 0.2s;
+}
+.btn:hover{
+ color:#ffffff;
+ background-color:#34d3c6;
 }

@@ -12,9 +12,9 @@ function App() {
         <>
           <Display text='0'/>
         </>
-        <>
+        <div className="Buttonsbox">
           <Boxes />
-        </>
+        </div>
       </div>
     </div>
   );
