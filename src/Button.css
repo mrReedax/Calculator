@@ -3,7 +3,7 @@
     background-color: rgb(50, 64, 71);
     color: #fff;
     height: 8vw;
-    width: 8vw;
+    width: 10vw;
     font-size: 3vw;
     border-color: aliceblue;
     margin: 0.2vw;
@@ -15,3 +15,12 @@
  color:#ffffff;
  background-color:#34d3c6;
 }
+
+.btn[value='='] {
+    background-color: #b2f5e6;
+    color: black;
+    transition: all 0.2s;
+  }
+  .btn[value='=']:hover{
+      background-color: aliceblue;
+  }
