@@ -1,6 +1,6 @@
 import React from 'react';
 import { Button } from './Button';
-import { BUTTONS } from './Buttons'
+import { BUTTONS } from '../data/Buttons'
 
 export const Boxes = () => {
     return (BUTTONS.map(content =>

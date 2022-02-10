@@ -1,6 +1,6 @@
-import './App.css';
-import { Boxes } from './Boxes';
-import { Display } from './Display';
+import './css/App.css';
+import { Boxes } from './components/Boxes';
+import { Display } from './components/Display';
 
 function App() {
   return (
