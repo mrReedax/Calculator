@@ -1,5 +1,4 @@
-# Calculator
-This is my first react app, I decided to build a simple calculator to test my knowledge of react, css, html and JavaScript
+# Calculatort
 
 ## Available Scripts
 
